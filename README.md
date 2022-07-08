@@ -1,4 +1,4 @@
-# Stock-Market-Detection
+# Stock-Market-Prediction usind Deep Learning
 Stock Market Prediction using deep learning
 Predicting the stock price via Computers has been the motive of investors since the inception of Modern Technology. This thesis tries to look for the best model to predict the fluctuation in stock prices. It also tries to predict the stock movement with higher accuracy with a comparative study between LSTM(Long Short Term Memory) and GRU(Gated Recurrent Unit).
 
